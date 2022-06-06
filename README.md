@@ -1,6 +1,6 @@
-<center><h1>Desafio de Projeto</h1></center>
+<h1 align="center">Desafio de Projeto</h1>
 
-<center><h2>Git/Github da DIO </h2></center>:cat2:
+<h2 align="center">Git/Github da DIO </h2>
 
 
 
